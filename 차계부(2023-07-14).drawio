@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2023-07-14T04:24:48.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.2" etag="GTfdNlHwnEupayIgs1x1" type="device">
+  <diagram id="vUDl0qp6wySJ54yXnIUA" name="페이지-1">
+    <mxGraphModel dx="3156" dy="2984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FhojxzmCd1goJYJlMRN_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FhojxzmCd1goJYJlMRN_-2" target="FhojxzmCd1goJYJlMRN_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhojxzmCd1goJYJlMRN_-2" target="FhojxzmCd1goJYJlMRN_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhojxzmCd1goJYJlMRN_-2" target="FhojxzmCd1goJYJlMRN_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhojxzmCd1goJYJlMRN_-2" target="FhojxzmCd1goJYJlMRN_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhojxzmCd1goJYJlMRN_-2" target="FhojxzmCd1goJYJlMRN_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-17" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhojxzmCd1goJYJlMRN_-2" target="FhojxzmCd1goJYJlMRN_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhojxzmCd1goJYJlMRN_-2" target="FhojxzmCd1goJYJlMRN_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-19" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FhojxzmCd1goJYJlMRN_-2" target="FhojxzmCd1goJYJlMRN_-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;exitX=0.467;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FhojxzmCd1goJYJlMRN_-2" target="FhojxzmCd1goJYJlMRN_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-2" value="차량 운행기록" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="170" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-3" value="구분&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1250" width="290" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-4" value="출발일자" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1250" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-5" value="출발시간" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1260" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-6" value="도착일자" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="1260" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-7" value="출발거리" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1260" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-8" value="도착시간" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="1260" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-9" value="도착거리" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="1260" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-10" value="장소" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="2480" y="1260" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FhojxzmCd1goJYJlMRN_-11" value="소요비용&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="2790" y="1250" width="300" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
